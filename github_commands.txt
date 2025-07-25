@@ -1,0 +1,14 @@
+# GitHub Sharing Commands
+# Replace YOURUSERNAME with your actual GitHub username
+
+# Connect your local repository to GitHub
+git remote add origin https://github.com/YOURUSERNAME/tesco-scraper.git
+
+# Rename branch to main (GitHub's default)
+git branch -M main
+
+# Push your code to GitHub
+git push -u origin main
+
+# Your repository will be live at:
+# https://github.com/YOURUSERNAME/tesco-scraper
